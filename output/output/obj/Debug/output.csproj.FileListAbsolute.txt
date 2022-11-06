@@ -1,0 +1,8 @@
+C:\Users\Yeamin\Desktop\C# Assignment - 14th Nov\Project 1 - output\output\output\bin\Debug\output.exe.config
+C:\Users\Yeamin\Desktop\C# Assignment - 14th Nov\Project 1 - output\output\output\bin\Debug\output.exe
+C:\Users\Yeamin\Desktop\C# Assignment - 14th Nov\Project 1 - output\output\output\bin\Debug\output.pdb
+C:\Users\Yeamin\Desktop\C# Assignment - 14th Nov\Project 1 - output\output\output\obj\Debug\output.csproj.AssemblyReference.cache
+C:\Users\Yeamin\Desktop\C# Assignment - 14th Nov\Project 1 - output\output\output\obj\Debug\output.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yeamin\Desktop\C# Assignment - 14th Nov\Project 1 - output\output\output\obj\Debug\output.csproj.CoreCompileInputs.cache
+C:\Users\Yeamin\Desktop\C# Assignment - 14th Nov\Project 1 - output\output\output\obj\Debug\output.exe
+C:\Users\Yeamin\Desktop\C# Assignment - 14th Nov\Project 1 - output\output\output\obj\Debug\output.pdb
