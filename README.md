@@ -1,6 +1,6 @@
 # CS-Output-Project
 A repository for basic CS code  
-### Main Code  
+## Main Code  
 ```
 using System;
 
